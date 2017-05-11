@@ -14,3 +14,10 @@
   margin-left: 20px;
   margin-right: 20px;
 }
+.sidebar {
+  margin-left: 20px;
+  width: 30%;
+}
+.navbar-right {
+  text-align: right;
+}
