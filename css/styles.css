@@ -1,0 +1,11 @@
+.well {
+  margin:20px;
+}
+.list {
+  float:right;
+  padding-top: 13px
+}
+.column {
+  float:right;
+  width:300px;
+}
